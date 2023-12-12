@@ -1,0 +1,8 @@
+ul{
+    list-style-position: outside;
+    
+}
+li{
+    border: 2px solid black;
+    background-color: aqua;
+}

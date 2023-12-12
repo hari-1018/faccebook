@@ -1,0 +1,21 @@
+table,th,td
+{
+    border: 5px solid;
+    margin: 40px 40px 40px 40px;
+}
+table
+{
+    width: 75%;
+}
+th{
+    height: 20px;
+}
+td{
+    text-align: center;
+}
+tr:hover{
+    background-color: grey;
+}
+tr:nth-child(odd){
+    background-color: red;
+}

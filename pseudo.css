@@ -1,0 +1,39 @@
+h1:hover{
+    color: orange;
+    background-image: url("kerala1.jpg");
+    height: 500px;
+    width: 800px;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+}
+p:active{
+    background-image: url("kerala.jpg");
+    height: 500px;
+}
+input:focus{
+    background-color: green;
+    height: 20px;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+
+
+p::selection{
+    background-color: green;
+    color: wheat;
+}
+h1:hover::after{
+    content: " - THE GODS OWN COUNTRY";
+    color: wheat;
+}
+h1:hover::before{
+    content: "WELCOME TO ";
+    color: wheat;
+}
+p::first-line{
+    color: green;
+}

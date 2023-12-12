@@ -1,0 +1,110 @@
+/* *{
+    margin: 10px;
+    padding: 0px;
+} */
+form{
+    width: 475px;
+    height: 650px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 1px 5px 8px 3px;
+}
+
+/* .box{
+    align-items: center;
+} */
+#button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: #00a400;
+    text-align: center;
+}
+#button:hover{
+    background-color: darkgreen;
+}
+
+h1{
+    color: #0866ff;
+    font-size: 40px;
+}
+h4{
+    color: #786770;
+}
+body{
+    background-color: #f0f2f5;
+}
+.tb{
+    position: relative;
+
+}
+#fname{
+    width: 150px;
+    border-radius: 5px;
+    background-color: white;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: -20px;
+
+    
+}
+#sname{
+    width: 150px;
+    border-radius: 5px;
+    background-color: white;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+#mob{
+    width: 310px;
+    border-radius: 5px;
+    background-color: white;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: -20px;
+}
+#pass{
+    width: 310px;
+    border-radius: 5px;
+    background-color: white;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: -20px;
+}
+select{
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.dob{
+    text-align: left;
+    margin-left: 40px;
+}
+p{
+    text-align: left;
+    margin-left: 40px;
+}
+.gender{
+    text-align: left;
+    margin-left: 40px;
+    display: inline;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+    /* width: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline; */
+}
