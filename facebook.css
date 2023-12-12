@@ -132,8 +132,10 @@ select{
 }
 
 .acc{
-    text-align: center;
+    margin-left: 101px;
+    font-size: 20px;
 }
 .learn{
     font-size: 12px;
+    color:  rgb(138, 135, 135);
 }
